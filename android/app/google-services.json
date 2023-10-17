@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626828292392",
+    "project_id": "instaposter-8def1",
+    "storage_bucket": "instaposter-8def1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626828292392:android:293656fd86b64158c7201d",
+        "android_client_info": {
+          "package_name": "com.insta.postwala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4cGBSvp7VAZNRK8_GomuGMCSa8G8VCag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
